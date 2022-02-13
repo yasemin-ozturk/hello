@@ -13,7 +13,7 @@ public class Firstexample {
 		System.out.println("where are you");
 		
 		
-		
+		System.out.println("have a nice day");
 		
 		
 		
